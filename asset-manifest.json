@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.b2aec27e.css",
+    "main.js": "/shopping-cart/static/js/main.e68c5d96.js",
+    "static/js/787.cfaa82bb.chunk.js": "/shopping-cart/static/js/787.cfaa82bb.chunk.js",
+    "static/media/hppc.jpg": "/shopping-cart/static/media/hppc.f106e57a1ee88bdc697c.jpg",
+    "static/media/samsungpc.jpg": "/shopping-cart/static/media/samsungpc.c1c209d8cd41f371ef24.jpg",
+    "static/media/vrgear.jpg": "/shopping-cart/static/media/vrgear.ad78fe20f8d3d25e81f2.jpg",
+    "static/media/tesla.jpg": "/shopping-cart/static/media/tesla.2ffc85cb4f3e7e194711.jpg",
+    "static/media/canoncamera.jpg": "/shopping-cart/static/media/canoncamera.06f4077f1610f423d6dd.jpg",
+    "static/media/hpmonitor.jpg": "/shopping-cart/static/media/hpmonitor.29112803d22fd7be02f2.jpg",
+    "static/media/ps5.jpg": "/shopping-cart/static/media/ps5.666c951914366cc69f31.jpg",
+    "static/media/Tv.jpg": "/shopping-cart/static/media/Tv.18ad1949103ce4b9e3c5.jpg",
+    "index.html": "/shopping-cart/index.html",
+    "main.b2aec27e.css.map": "/shopping-cart/static/css/main.b2aec27e.css.map",
+    "main.e68c5d96.js.map": "/shopping-cart/static/js/main.e68c5d96.js.map",
+    "787.cfaa82bb.chunk.js.map": "/shopping-cart/static/js/787.cfaa82bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2aec27e.css",
+    "static/js/main.e68c5d96.js"
+  ]
+}
