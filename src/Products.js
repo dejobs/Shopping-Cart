@@ -10,7 +10,7 @@ import SamsungPc from "./assets/samsungpc.jpg"
 export const Products = [
     {id: 1,
     productName: "Camera",
-    price: 255.3,
+    price: 255.9,
     productImage: Camera
 },
 {id: 2,
