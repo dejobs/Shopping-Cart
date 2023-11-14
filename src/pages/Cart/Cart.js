@@ -3,7 +3,6 @@ import { Products } from "../../Products";
 import { ShopContext } from "../../context/ShopContext";
 import { useContext } from "react";
 import CartItem from "./CartItem";
-
 import {useNavigate} from "react-router-dom"
 
 
